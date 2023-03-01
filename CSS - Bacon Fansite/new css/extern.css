@@ -1,0 +1,25 @@
+/****tag selector******/
+h1{
+    color: aqua;
+    font-size: 100px;
+
+} 
+img{
+    background-color: red;
+}
+
+/******class selector******/
+
+
+.beef{
+    background-color: brown;
+}
+.leaf{
+    background-color: green;
+}
+
+    /***id***/
+    #rahul{
+        color: red;
+
+    }

@@ -1,0 +1,118 @@
+/**.new{
+    color: red;
+    size: 100px;
+    position: relative;
+    top: 60px;
+    
+    
+}**/
+    
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+   }
+    
+h1{
+ margin: 0;
+ width: 10%;
+ margin: 0 auto 0 auto;
+  font-size: 3.625rem;                                    /***100%= 16px so that 90px=500 approx percent=1em**//**1em=16px**/
+ font-family: 'Sacramento', cursive;
+ color: #66BFBF;
+
+}
+
+.top{
+   background-color: #B9F3FC;
+   width: 100%;
+   height: 844PX;
+   position: relative;
+   padding-top: 100px;
+}
+
+
+.middle-container{
+   margin: 10px auto 40px;
+   
+}
+ .bottom-container{
+   background-color:#B9F3FC;
+   padding: 40px 60px;
+ }
+ 
+ .bottom_cloud{
+    position: absolute
+ }
+ .top_cloud{
+    position: absolute;
+    right: 30%;
+    top: 20px;
+    position: absolute;
+    top: 100px;
+ }
+ .web{
+    position: relative;
+    top: 60px;
+ }
+ .h2{
+color: #66BFBF;
+font-weight:normal;
+ }
+
+ h3{
+   color: #11999E;
+ }
+.skill-row{
+   text-align: left;
+   line-height: 2;
+}
+ .pro-img{
+   width: 18%;
+ }
+ .skill-img{
+   width: 5%;
+   float: left;
+   margin: 10px;
+ }
+.js-img{
+   width: 5%;
+   float: left;
+   margin: 10px;
+}
+ .line{
+   clear: left;
+ }
+
+ .btn {
+   background: #54b2f0;
+   background-image: -webkit-linear-gradient(top, #54b2f0, #106194);
+   background-image: -moz-linear-gradient(top, #54b2f0, #106194);
+   background-image: -ms-linear-gradient(top, #54b2f0, #106194);
+   background-image: -o-linear-gradient(top, #54b2f0, #106194);
+   background-image: linear-gradient(to bottom, #54b2f0, #106194);
+   -webkit-border-radius: 8;
+   -moz-border-radius: 8;
+   border-radius: 8px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   border: solid #1e89cc 0px;
+   text-decoration: none;
+   margin: 40px auto 60px;
+
+ }
+ 
+ .btn:hover {
+   background: #8ecef5;
+   background-image: -webkit-linear-gradient(top, #8ecef5, #70a7cc);
+   background-image: -moz-linear-gradient(top, #8ecef5, #70a7cc);
+   background-image: -ms-linear-gradient(top, #8ecef5, #70a7cc);
+   background-image: -o-linear-gradient(top, #8ecef5, #70a7cc);
+   background-image: linear-gradient(to bottom, #8ecef5, #70a7cc);
+   text-decoration: none;
+ }
+ a:hover{
+   color: aliceblue;
+ }
